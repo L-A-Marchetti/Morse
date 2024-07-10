@@ -1,5 +1,9 @@
 # Morse (Raspberry Pico)
 
+![Morse Code LED Blinker](example.gif)
+
+*Example of the serial port communication.*
+
 This project allows you to input a word or sentence using Raspberry usb serial port via the Minicom terminal, convert it to Morse code, and blink an LED on a Raspberry Pi Pico to represent the Morse code. The Morse code translation is also printed back to the terminal.
 
 ## Building the Project
@@ -10,7 +14,7 @@ This project allows you to input a word or sentence using Raspberry usb serial p
     cd Morse
     ```
 
-2. **Compile**:
+2. **Compile (if needed)**:
     ```sh
     cd build
     make -j4
