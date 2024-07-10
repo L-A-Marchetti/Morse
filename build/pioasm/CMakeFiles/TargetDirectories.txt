@@ -1,3 +1,0 @@
-/home/lam/Documents/prototypes/Morse/build/pioasm/CMakeFiles/pioasm.dir
-/home/lam/Documents/prototypes/Morse/build/pioasm/CMakeFiles/edit_cache.dir
-/home/lam/Documents/prototypes/Morse/build/pioasm/CMakeFiles/rebuild_cache.dir
